@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 aling= "center"> Hi 👋, I'm Lisbeth Ccoyo - @ccoyox </h1>
+<h2 aling= "center"> an economics student at PUCP
+
 
 <!--
 **ccoyox/ccoyox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
